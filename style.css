@@ -1,5 +1,6 @@
 body {
 background-color: black;
+text-align: center;
 }
 
 h1{
@@ -10,9 +11,33 @@ text-align: center;
 color: white;
 }
 
-p{
+p {
 color:Aquamarine;
 font-size: 16px;
 text-align: center;
 font-family: Verdana;
+text-decoration: underline;
+}
+
+h2{
+font-family: Verdana;
+font-weight: 300;
+font-size: 42px;
+color: white;
+text-align: center;
+}
+
+h4{
+font-family: Verdana;
+font-size: 21px;
+color: gray;
+}
+
+
+
+div.footer {
+text-align: right;
+
+color:grey;
+
 }
