@@ -30,14 +30,20 @@ text-align: center;
 h4{
 font-family: Verdana;
 font-size: 21px;
-color: gray;
+color: grey;
+}
+
+a{
+font-size: 21px;
+color:grey;
+font-family: Verdana;
+
 }
 
 
 
-div.footer {
-text-align: right;
-
+div footer {
+text-align:right;
 color:grey;
 
 }
